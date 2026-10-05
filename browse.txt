@@ -1,0 +1,215 @@
+2:I[8900,["972","static/chunks/972-cd9f840aafa6d54e.js","497","static/chunks/497-4306288afed60a13.js","368","static/chunks/app/browse/page-759f25889cf4d222.js"],"default"]
+3:"$Sreact.suspense"
+4:I[7579,["972","static/chunks/972-cd9f840aafa6d54e.js","497","static/chunks/497-4306288afed60a13.js","368","static/chunks/app/browse/page-759f25889cf4d222.js"],"default"]
+b:I[4707,[],""]
+c:I[6423,[],""]
+d:I[5922,["972","static/chunks/972-cd9f840aafa6d54e.js","333","static/chunks/333-26a134298efc1230.js","185","static/chunks/app/layout-7aa0876f9510b8a9.js"],"ThemeProvider"]
+e:I[3039,["972","static/chunks/972-cd9f840aafa6d54e.js","333","static/chunks/333-26a134298efc1230.js","185","static/chunks/app/layout-7aa0876f9510b8a9.js"],"default"]
+f:I[8478,["972","static/chunks/972-cd9f840aafa6d54e.js","333","static/chunks/333-26a134298efc1230.js","185","static/chunks/app/layout-7aa0876f9510b8a9.js"],"default"]
+10:I[2972,["972","static/chunks/972-cd9f840aafa6d54e.js","10","static/chunks/10-111975d52ee08d48.js","931","static/chunks/app/page-4fe39f775a3c6b0b.js"],""]
+5:T8a3,
+*(Sample Content: You can edit or replace this post with your own opportunity details)*
+
+## Overview
+The World Bank Winter Internship Program invites graduate students from across the globe to bring fresh perspectives, innovative ideas, and research experience into the World Bank's global operations. Most positions are based at World Bank headquarters in Washington, D.C., with select opportunities across country offices worldwide.
+
+## Compensation & Benefits
+- **Hourly Salary**: Competitive hourly wage paid to all interns in accordance with World Bank operational scales.
+- **Travel Allowance**: Up to $3,000 for round-trip economy airfare to the duty station (discretionary based on hiring manager approval).
+- **Direct Mentorship**: Daily collaboration with world-leading economists, environmental scientists, and financial analysts.
+- **Global Network**: Connect with fellow international interns and access the World Bank knowledge repositories.
+
+## Eligibility Criteria
+- **Enrollment Status**: Must hold an undergraduate degree and be currently enrolled in a full-time graduate study program (pursuing a Master's degree or PhD) with plans to return to school.
+- **Fields of Study**: Economics, Finance, Human Development (Public Health, Education, Nutrition), Social Sciences, Agriculture, Environment, Engineering, Urban Planning, or related disciplines.
+- **Languages**: Fluency in English is required. Knowledge of other languages such as French, Spanish, Russian, Arabic, or Portuguese is an asset.
+- **Technical Skills**: Computing skills, econometric modeling, and data science capabilities are highly advantageous.
+
+## Required Documents
+- Curriculum Vitae (CV) in PDF format.
+- Statement of Interest (maximum 1 page).
+- Official proof of current enrollment in an accredited Master’s or PhD program.
+
+## How to Apply (Step-by-Step)
+1. **Prepare Profile**: Review eligibility and update your CV and Statement of Interest before the deadline.
+2. **Access World Bank Member Center**: Submit your application through the official Taleo recruitment portal.
+3. **Application Review**: Candidates are shortlisted by departments based on operational project needs for the December–March period.
+6:T9ce,
+*(Sample Content: You can edit or replace this post with your own opportunity details)*
+
+## Overview
+The Harvard Radcliffe Institute Fellowship Program brings together scholars, artists, scientists, and practitioners from around the globe to pursue transformative work free from customary obligations. Fellows step away from routine duties to immerse themselves in deeply focused research or artistic creation within Harvard University’s vibrant intellectual community.
+
+## Fellowship Benefits
+- **Substantial Stipend**: $78,000 for the nine-month academic year, plus an additional $5,000 project allowance.
+- **Housing Assistance**: Access to Harvard University housing assistance and relocation support.
+- **Dedicated Office/Studio**: Private study or creative studio located at the Radcliffe Yard in Cambridge, MA.
+- **Harvard Library Access**: Full borrowing privileges and digital access to Harvard University’s library system (the largest academic library in the world).
+- **Health Insurance**: Relocation healthcare subsidy and eligibility to enroll in Harvard University group health plans.
+
+## Eligibility Criteria
+- **Academic Applicants**: Must hold a doctorate (PhD, MD, or terminal degree) earned at least two years prior to the appointment year, with significant published scholarship.
+- **Creative Writers, Artists, and Journalists**: Evaluated on professional achievements, portfolio strength, and public recognition in their creative discipline.
+- **Commitment**: Fellows must reside in the Greater Boston area and participate actively in the Radcliffe community throughout the academic fellowship year (September through May).
+
+## Required Documents
+- Online application form.
+- Curriculum Vitae (CV) including complete list of publications or creative exhibitions.
+- Project proposal (max 1,400 words) describing project goals, methodology, and significance.
+- Writing or artistic work sample.
+- Three letters of recommendation submitted directly by referees.
+
+## How to Apply (Step-by-Step)
+1. **Access Radcliffe Portal**: Create an applicant account on Harvard Radcliffe’s official fellowship submission portal.
+2. **Designate Referees**: Enter contact details for three professional referees early so they have sufficient time to submit recommendations.
+3. **Upload Proposal**: Upload your project proposal, CV, and creative/scholarly work sample before the stated deadline.
+4. **Final Review**: Applications are reviewed through a rigorous two-tier peer-review committee process.
+7:Ta3e,
+*(Sample Content: You can edit or replace this post with your own opportunity details)*
+
+## Overview
+The Junior Professional Officer (JPO) Programme provides young professionals an exceptional opportunity to acquire hands-on experience in multilateral international development cooperation and humanitarian policy under the guidance of senior staff at UNICEF.
+
+JPOs are assigned to UNICEF field offices across Africa, Asia, Latin America, or headquarters in New York, Geneva, and Copenhagen, serving vulnerable children and families worldwide.
+
+## Compensation & Benefits
+- **United Nations P-2 Salary Scale**: Annual base tax-exempt salary starting from $75,000 to $92,000 plus cost-of-living post adjustment.
+- **Relocation & Travel**: Full travel costs, shipping allowance, and relocation grant for the candidate and recognized dependents.
+- **Healthcare & Pension**: Comprehensive worldwide health, dental, and life insurance, plus participation in the United Nations Joint Staff Pension Fund (UNJSPF).
+- **Annual Leave**: 30 working days of annual paid leave per year plus official UN holidays.
+- **Career Mentorship**: Dedicated professional development courses, language learning grants, and career coaching.
+
+## Eligibility Criteria
+- **Education**: Advanced university degree (Master's or equivalent) in Social Sciences, International Relations, Public Health, Education, Economics, or Law.
+- **Experience**: Minimum of 2 years of relevant professional experience at the national or international level.
+- **Age**: Under 32 or 35 years of age on 31 December of the application year (varies by donor government agreement).
+- **Language**: Fluency in English (working knowledge of French, Spanish, Arabic, or Russian is an advantage).
+
+## Required Documents
+- Completed UN P11 Personal History Profile / Online e-Recruitment Profile.
+- Copy of highest educational diploma and certified academic transcripts.
+- Detailed CV highlighting relevant child rights or humanitarian work.
+- Two professional references from previous employers or academic advisors.
+
+## How to Apply (Step-by-Step)
+1. **Visit UNICEF Careers**: Navigate to the official UNICEF recruitment portal and filter for Junior Professional Officer vacancies.
+2. **Review Nationality Eligibility**: Confirm whether your country has a bilateral funding agreement with the UN for JPO positions.
+3. **Submit Online Profile**: Fill out the official UN application, upload documents, and write a motivational statement.
+4. **Competency Assessment**: Shortlisted applicants will undergo technical written assessments and UN competency-based panel interviews.
+8:T11de,
+## Overview
+Each year the Swiss Confederation awards Government Excellence Scholarships to promote international exchange and research cooperation between Switzerland and over 180 other countries. The research scholarship is available to post-graduate researchers in any discipline who hold a master’s degree or PhD, intending to pursue doctoral or post-doctoral research in Switzerland.
+
+The scholarships are awarded by the Federal Commission for Scholarships for Foreign Students (FCS) in collaboration with Swiss public universities, federal institutes of technology (ETH Zurich, EPFL), and universities of applied sciences.
+
+## Program Levels & Duration
+- **PhD Scholarships**: 12 months, renewable up to 36 months based on achieved academic results.
+- **Research Fellowships**: Up to 12 months maximum (intended for highly qualified doctoral or medical students as well as postgraduates wishing to conduct research).
+- **Postdoctoral Scholarships**: 12 months.
+
+## Benefits & Financial Coverage
+- **Monthly Stipend**: CHF 2,450 per month (approx. $2,800 USD) for PhD and Research Fellowship candidates.
+- **Health Insurance**: Mandatory Swiss National Health Insurance is fully covered by the FCS for non-EU/EFTA scholars.
+- **Housing Allowance**: One-time lump sum grant of CHF 600 paid upon arrival to assist with apartment rental deposits.
+- **Public Transportation**: A Swiss public transport Half-Fare Travelcard (valid for 1 year) is provided free of charge.
+- **Flight Allowance**: Return flight allowance / lump sum payment provided at the end of the scholarship for candidates from non-EU/EFTA countries.
+- **Support Services**: Dedicated trips, cultural dinners, and sightseeing tours organized for Swiss Government Excellence Scholars.
+
+## Important Limitations
+> **Note**: Tuition and semester registration fees are **not** covered by the FCS scholarship. Most Swiss public universities waive or reduce these fees for FCS scholars, but applicants must confirm with their host university. Applicants must apply to **only one host university**.
+
+## Eligibility Criteria
+- **Academic Degree**: Master's degree or equivalent university degree achieved before 31 July 2027, with high academic standing.
+- **Age Limit**: Born after 31 December 1991 (must not be older than 35 at the start of the scholarship).
+- **Host Professor Support**: Mandatory letter of support from an academic supervisor (professor) at a recognized Swiss university willing to supervise the applicant's research.
+- **Research Proposal**: A detailed, independent research proposal (max 5 pages) complete with a feasible timeline.
+- **Language Proficiency**: Excellent proficiency in the language of instruction (English, French, German, or Italian) required for the selected research program.
+
+## Required Documents
+1. Official FCS Application Form (duly signed with photograph).
+2. Comprehensive Curriculum Vitae (CV) listing academic publications and awards.
+3. Letter of Motivation (maximum 2 pages).
+4. Complete Research Proposal (up to 5 pages) using the official FCS template.
+5. Written confirmation from a professor at a Swiss institution agreeing to supervise the research.
+6. Short CV of the supervising professor.
+7. Two letters of recommendation from academic referees on official FCS recommendation forms.
+8. Certified photocopies of university diplomas, transcripts, and grading scales.
+9. Medical certificate on official FCS form.
+10. Two copies of the applicant's valid passport.
+
+## How to Apply (Step-by-Step)
+1. **Identify a Swiss Supervisor**: Reach out to professors at Swiss universities (ETH Zurich, EPFL, University of Geneva, University of Zurich, University of Basel, etc.) matching your research domain and secure their written commitment.
+2. **Obtain Application Package**: Contact the Swiss Embassy in your home country (e.g., Swiss Embassy in Islamabad for Pakistan, or your national diplomatic mission) to obtain the official FCS application documents and country-specific fact sheet.
+3. **Prepare Dossier**: Complete the FCS form and compile three hard-copy sets (1 original + 2 copies) of all certified documents.
+4. **Submit to Swiss Embassy**: Submit the full paper dossier directly to the Swiss Embassy in your home country before the local deadline.
+   - **Deadline for Pakistan**: 31 October 2026 (11:59 PM Swiss time).
+   - *Note: Deadlines vary between August and December depending on each country's Swiss embassy.*
+5. **Selection & Announcement**: The Swiss Embassy conducts preliminary screening, and FCS makes the final decision by May 2027.
+9:T9ce,
+*(Sample Content: You can edit or replace this post with your own opportunity details)*
+
+## Overview
+Korea Advanced Institute of Science and Technology (KAIST), renowned as the leading science and technology research university in South Korea, invites international students for full-time graduate degree admissions. All admitted international students who maintain satisfactory academic standing are eligible for the prestigious KAIST International Student Scholarship.
+
+## Scholarship Benefits
+- **Full Tuition Exemption**: 100% waiver of tuition fees throughout the normative duration of study (4 semesters for Master's, 8 semesters for PhD).
+- **Monthly Living Stipend**: KRW 350,000 per month for Master's students and KRW 400,000 per month for Doctoral students.
+- **Research Project Grants**: Additional research assistantship stipends provided by individual laboratory advisors (average KRW 800,000–1,500,000/month).
+- **National Health Insurance**: Subsidized health insurance coverage.
+- **On-Campus Housing**: Guaranteed university dormitory options at subsidized rates.
+
+## Eligibility Criteria
+- **Nationality**: Candidates who hold non-Korean nationality (neither the applicant nor applicant's parents may hold Korean citizenship).
+- **Academic Degree**:
+  - For Master's: Bachelor’s degree from an accredited institution by February 2027.
+  - For PhD: Master’s degree from an accredited institution by February 2027.
+- **English Proficiency**: Official score report meeting one of: TOEFL iBT 83, IELTS 6.5, TOEIC 720, or TEPS 326 (scores must be within 2 years of the deadline).
+
+## Required Documents
+- KAIST Online Application Form and Document Checklist.
+- Statement of Purpose (SOP) and Study Plan.
+- Two Recommendation Letters from academic professors.
+- Official Degree Certificates and University Transcripts (with apostille or consular authentication).
+- English Proficiency Test Score.
+- Passport copy and proof of parent-child relationship.
+
+## How to Apply (Step-by-Step)
+1. **Online Application**: Register on the KAIST Graduate Admissions Portal, fill out all application sections, and pay the 80 USD application fee.
+2. **Recommendation Letters**: Your recommenders must submit their evaluation letters through the automated online recommendation system.
+3. **Send Physical Documents**: Mail your certified physical documents to the KAIST Admissions Office in Daejeon, South Korea.
+4. **Admissions Result**: Check admissions and scholarship results announced on the portal.
+a:Ta1b,
+*(Sample Content: You can edit or replace this post with your own opportunity details)*
+
+## Overview
+The Community Solutions Program (CSP) is a premier year-long professional leadership development fellowship sponsored by the U.S. Department of State and implemented by IREX. It provides community innovators from around the world with intensive leadership training, a four-month professional fellowship in the United States, and support to implement community action projects back home.
+
+## Fellow Benefits & Financial Support
+- **J-1 Visa Support**: Comprehensive visa sponsorship and administration.
+- **Round-Trip Travel**: Domestic and international airfare between your home country and the United States.
+- **Monthly Living Stipend**: Generous monthly allowance to cover housing, meals, and local transit while in the U.S.
+- **Health Coverage**: Accident and sickness health benefits that meet J-1 visa guidelines.
+- **Community Seed Grants**: Access to competitive small grant funding (up to $5,000) to execute your Community Action Project upon returning home.
+- **Leadership Institute**: Tailored curriculum designed by top leadership scholars with executive coaching.
+
+## Thematic Focus Areas
+1. **Environmental Issues**: Climate resilience, renewable energy, natural resource management.
+2. **Peace and Conflict Resolution**: Conflict mitigation, youth engagement, human rights advocacy.
+3. **Transparency and Accountability**: Anti-corruption, open governance, investigative media.
+4. **Women and Gender Issues**: Gender-based violence prevention, women's economic empowerment.
+
+## Eligibility Criteria
+- **Age**: Between 25 and 38 years old as of the application start date.
+- **Citizenship**: Citizen of an eligible participating country (over 100 countries in Asia, Africa, Europe, and the Americas).
+- **Experience**: Minimum of two years of active experience working on community development (as a professional or volunteer).
+- **Language**: High level of written and spoken English proficiency.
+- **Commitment**: Firm dedication to return to your home country for a minimum of two years post-fellowship.
+
+## How to Apply (Step-by-Step)
+1. **Online Application**: Register on the official IREX online application system.
+2. **Essay Prompts**: Submit detailed responses explaining your community experience and your proposed Community Action Project.
+3. **Reference Verification**: Provide contact details for your professional supervisor.
+4. **Semifinalist Interview**: Semifinalists participate in an online interview and submit English language verification scores.
+0:["x91xWa6ZPu0DnYiZCpPkn",[[["",{"children":["browse",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["browse",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12 space-y-8","children":[["$","div",null,{"className":"space-y-3","children":[["$","div",null,{"className":"inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-teal-50 dark:bg-teal-950/60 text-brand-teal dark:text-teal-300 text-xs font-bold border border-teal-200 dark:border-teal-800","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-search w-3.5 h-3.5","children":[["$","circle","4ej97u",{"cx":"11","cy":"11","r":"8"}],["$","path","1qie3q",{"d":"m21 21-4.3-4.3"}],"$undefined"]}],["$","span",null,{"children":"Interactive Directory"}]]}],["$","h1",null,{"className":"text-3xl sm:text-4xl font-extrabold font-heading text-slate-900 dark:text-white tracking-tight","children":"Browse All Opportunities"}],["$","p",null,{"className":"text-sm sm:text-base text-slate-600 dark:text-slate-400 max-w-2xl leading-relaxed","children":"Filter through our verified directory of scholarships, international positions, fellowships, and training grants. Save items to your bookmarks to track deadlines."}]]}],["$","$L2",null,{"slotId":"browse-top-leaderboard","format":"horizontal"}],["$","$3",null,{"fallback":["$","div",null,{"className":"p-8 text-center text-slate-400","children":"Loading directory..."}],"children":["$","$L4",null,{"initialOpportunities":[{"title":"World Bank Winter Internship Program 2027","slug":"world-bank-winter-internship-program-2027","category":"internships","organization":"The World Bank Group","country":"United States / Worldwide","countryCode":"US","level":"Master & PhD Students","fundingType":"Paid","deadline":"2026-10-31T23:59:59Z","featured":true,"officialLink":"https://www.worldbank.org/en/about/careers/programs-and-internships/internship","postedAt":"2026-10-04","views":1105,"isSample":true,"summary":"The World Bank Group Internship Program offers highly motivated graduate students an opportunity to be exposed to development missions and international finance operations.","rawContent":"$5"},{"title":"Radcliffe Institute Fellowship at Harvard University 2027–28","slug":"radcliffe-fellowship-harvard-university-2027","category":"fellowships","organization":"Harvard Radcliffe Institute","country":"United States","countryCode":"US","level":"Postdoc & Senior Scholars","fundingType":"Fully funded","deadline":"2026-12-15T23:59:59Z","featured":true,"officialLink":"https://www.radcliffe.harvard.edu/radcliffe-fellowship","postedAt":"2026-10-03","views":740,"isSample":true,"summary":"The Harvard Radcliffe Fellowship is an elite 9-month residential program in Cambridge, Massachusetts, offering $78,000 stipends and Harvard resources to visionary scholars and artists.","rawContent":"$6"},{"title":"UNICEF Junior Professional Officer (JPO) Program 2027","slug":"unicef-junior-professional-officer-program-2027","category":"jobs","organization":"United Nations Children's Fund (UNICEF)","country":"Global (Geneva / New York / Field Offices)","countryCode":"US","level":"Early-to-Mid Career","fundingType":"Fully funded","deadline":"2026-11-20T23:59:59Z","featured":true,"officialLink":"https://www.unicef.org/careers/junior-professional-officer-programme","postedAt":"2026-10-02","views":890,"isSample":true,"summary":"The UNICEF JPO Program provides young professionals with hands-on experience in international development cooperation and humanitarian action under UN professional salary scales.","rawContent":"$7"},{"title":"Swiss Government Excellence Scholarships 2027–28","slug":"swiss-government-excellence-scholarships-2027","category":"scholarships","organization":"Federal Commission for Scholarships for Foreign Students (FCS)","country":"Switzerland","countryCode":"CH","level":"PhD & Research Fellowship","fundingType":"Fully funded","deadline":"2026-10-31T23:59:00+01:00","featured":true,"officialLink":"https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance","postedAt":"2026-10-01","views":1420,"isSample":false,"summary":"The Swiss Government Excellence Scholarships are aimed at young researchers from abroad who have completed a master's degree or PhD and at foreign artists holding a bachelor's degree.","rawContent":"$8"},{"title":"KAIST International Graduate Admissions & Full Scholarship 2027","slug":"kaist-international-graduate-admissions-scholarship-2027","category":"admissions","organization":"Korea Advanced Institute of Science and Technology (KAIST)","country":"South Korea","countryCode":"KR","level":"Master / PhD","fundingType":"Fully funded","deadline":"2026-10-23T17:00:00+09:00","featured":true,"officialLink":"https://admission.kaist.ac.kr/intl-graduate/","postedAt":"2026-09-28","views":960,"isSample":true,"summary":"KAIST offers full tuition waiver scholarships and monthly research stipends for international students pursuing Master's and PhD degrees in science and engineering in South Korea.","rawContent":"$9"},{"title":"Community Solutions Global Leaders Program 2027","slug":"community-solutions-global-leaders-program-2027","category":"training-programs","organization":"IREX / U.S. Department of State","country":"United States","countryCode":"US","level":"Community Leaders (Age 25–38)","fundingType":"Fully funded","deadline":"2026-10-08T23:59:00Z","featured":true,"officialLink":"https://www.irex.org/program/community-solutions-program-application-information","postedAt":"2026-09-15","views":1340,"isSample":true,"summary":"The Community Solutions Program is a professional leadership development program for community leaders working on environmental issues, peace, women, and civic engagement.","rawContent":"$a"},{"title":"DAAD Helmut-Schmidt-Programme Master's Scholarships 2026","slug":"daad-helmut-schmidt-programme-2026","category":"scholarships","organization":"German Academic Exchange Service (DAAD)","country":"Germany","countryCode":"DE","level":"Master","fundingType":"Fully funded","deadline":"2026-07-31T23:59:59Z","featured":false,"officialLink":"https://www.daad.de/en/study-and-research-in-germany/scholarships/helmut-schmidt-programme/","postedAt":"2026-06-01","views":2450,"isSample":true,"summary":"The DAAD Helmut-Schmidt-Programme supports future leaders from developing countries who strive to promote democracy and social justice in their home countries.","rawContent":"\n*(Sample Content: This opportunity's deadline has passed. It demonstrates the automated Closed status badge and expired archive state)*\n\n## Notice: Application Period Closed\nThe application period for the 2026 intake of the DAAD Helmut-Schmidt-Programme closed on 31 July 2026. Please check back next year or bookmark this opportunity to receive updates when the 2027 cycle opens.\n\n## Program Overview\nThe German Academic Exchange Service (DAAD) funds future leaders from developing and emerging countries who want to earn a Master's degree in disciplines that are of special relevance to the social, political, and economic development of their home countries.\n\n## Benefits\n- Monthly scholarship rate of €934.\n- Health, accident, and personal liability insurance in Germany.\n- Travel allowance.\n- Free German language course prior to studies.\n- Study and research subsidies.\n"}]}]}]]}],null],null],null]},[null,["$","$Lb",null,{"parallelRouterKey":"children","segmentPath":["children","browse","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7626576b81093f32.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"__variable_f367f3 __variable_1848dd","children":[["$","head",null,{"children":["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}]}],["$","body",null,{"className":"font-sans min-h-screen flex flex-col justify-between","children":["$","$Ld",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"children":[["$","$Le",null,{}],["$","$Lf",null,{}],["$","main",null,{"className":"flex-grow","children":["$","$Lb",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[70vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"max-w-md w-full text-center space-y-6","children":[["$","div",null,{"className":"w-20 h-20 rounded-3xl bg-teal-50 dark:bg-slate-800 text-brand-teal flex items-center justify-center mx-auto shadow-inner border border-teal-100 dark:border-slate-700","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-compass w-10 h-10 animate-spin","style":{"animationDuration":"16s"},"children":[["$","path","9ktpf1",{"d":"m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}]}],["$","div",null,{"className":"space-y-2","children":[["$","span",null,{"className":"text-5xl font-extrabold text-brand-navy dark:text-white font-mono block","children":"404"}],["$","h1",null,{"className":"text-2xl font-bold font-heading text-slate-900 dark:text-white","children":"Opportunity Not Found"}],["$","p",null,{"className":"text-sm text-slate-600 dark:text-slate-400 leading-relaxed","children":"The page you are looking for may have expired, moved to a new destination, or no longer exists in our directory."}]]}],["$","div",null,{"className":"pt-2 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L10",null,{"href":"/","className":"w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-brand-navy hover:bg-brand-teal text-white text-xs sm:text-sm font-bold shadow transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-house w-4 h-4","children":[["$","path","5wwlr5",{"d":"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"}],["$","path","1d0kgt",{"d":"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],"$undefined"]}],["$","span",null,{"children":"Go to Homepage"}]]}],["$","$L10",null,{"href":"/browse","className":"w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 text-slate-800 dark:text-slate-200 text-xs sm:text-sm font-bold border border-slate-200 dark:border-slate-700 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-search w-4 h-4","children":[["$","circle","4ej97u",{"cx":"11","cy":"11","r":"8"}],["$","path","1qie3q",{"d":"m21 21-4.3-4.3"}],"$undefined"]}],["$","span",null,{"children":"Search Directory"}]]}]]}]]}]}],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-300 border-t border-slate-800 transition-colors","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-16","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 lg:gap-12","children":[["$","div",null,{"className":"lg:col-span-2 space-y-4","children":[["$","$L10",null,{"href":"/","className":"inline-block","children":["$","div",null,{"className":"flex items-center gap-3 font-heading text-white","children":[["$","div",null,{"className":"relative flex-shrink-0","style":{"width":42,"height":42},"children":["$","svg",null,{"viewBox":"0 0 100 100","fill":"none","xmlns":"http://www.w3.org/2000/svg","className":"w-full h-full drop-shadow-sm","children":[["$","defs",null,{"children":[["$","linearGradient",null,{"id":"globeGrad","x1":"0%","y1":"0%","x2":"100%","y2":"100%","children":[["$","stop",null,{"offset":"0%","stopColor":"#0B3C5D"}],["$","stop",null,{"offset":"100%","stopColor":"#0E7C86"}]]}],["$","linearGradient",null,{"id":"swooshGrad","x1":"0%","y1":"0%","x2":"100%","y2":"100%","children":[["$","stop",null,{"offset":"0%","stopColor":"#FBD34D"}],["$","stop",null,{"offset":"60%","stopColor":"#F2B632"}],["$","stop",null,{"offset":"100%","stopColor":"#D99B1C"}]]}],["$","filter",null,{"id":"goldGlow","x":"-20%","y":"-20%","width":"140%","height":"140%","children":["$","feDropShadow",null,{"dx":"0","dy":"1","stdDeviation":"1.5","floodColor":"#F2B632","floodOpacity":"0.4"}]}]]}],["$","circle",null,{"cx":"50","cy":"50","r":"38","fill":"url(#globeGrad)"}],["$","ellipse",null,{"cx":"50","cy":"50","rx":"38","ry":"16","stroke":"rgba(255,255,255,0.22)","strokeWidth":"2","fill":"none"}],["$","ellipse",null,{"cx":"50","cy":"50","rx":"20","ry":"38","stroke":"rgba(255,255,255,0.22)","strokeWidth":"2","fill":"none"}],["$","line",null,{"x1":"12","y1":"50","x2":"88","y2":"50","stroke":"rgba(255,255,255,0.28)","strokeWidth":"2"}],["$","line",null,{"x1":"50","y1":"12","x2":"50","y2":"88","stroke":"rgba(255,255,255,0.28)","strokeWidth":"2"}],["$","circle",null,{"cx":"50","cy":"50","r":"4.5","fill":"#FFFFFF"}],["$","path",null,{"d":"M 14 74 C 22 92, 68 94, 88 64 C 98 48, 88 24, 70 16 C 54 8, 30 18, 22 34","stroke":"url(#swooshGrad)","strokeWidth":"6","strokeLinecap":"round","fill":"none","filter":"url(#goldGlow)"}],["$","circle",null,{"cx":"21","cy":"35","r":"4.5","fill":"#FBD34D"}]]}]}],["$","div",null,{"className":"flex flex-col leading-tight","children":[["$","span",null,{"className":"text-lg md:text-xl font-extrabold tracking-tight text-brand-navy dark:text-white","children":["Global Opportunity ",["$","span",null,{"className":"text-brand-teal dark:text-teal-400","children":"Hub"}]]}],["$","span",null,{"className":"text-[10px] md:text-xs font-medium text-slate-500 dark:text-slate-400 tracking-wide uppercase","children":"Scholarships & Careers"}]]}]]}]}],["$","p",null,{"className":"text-xs md:text-sm text-slate-400 leading-relaxed max-w-sm","children":"Your trusted platform for discovering scholarships, jobs, fellowships, internships, admissions, training programs and career opportunities around the world."}],["$","div",null,{"className":"pt-2","children":["$","a",null,{"href":"https://www.facebook.com/GlobalOpportunityHub","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-white/10 hover:bg-[#1877F2] text-white text-xs font-semibold transition-colors duration-200 border border-white/10","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-facebook w-4 h-4 fill-current text-[#1877F2] group-hover:text-white","children":[["$","path","1jg4f8",{"d":"M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"}],"$undefined"]}],["$","span",null,{"children":["Join our Facebook Page (","3.2K+ Followers",")"]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-external-link w-3 h-3 text-slate-400","children":[["$","path","1q9fwt",{"d":"M15 3h6v6"}],["$","path","gplh6r",{"d":"M10 14 21 3"}],["$","path","a6xqqp",{"d":"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"}],"$undefined"]}]]}]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","h4",null,{"className":"text-xs font-bold text-white uppercase tracking-wider font-heading","children":"Categories"}],["$","ul",null,{"className":"space-y-2 text-xs md:text-sm","children":[["$","li","scholarships",{"children":["$","$L10",null,{"href":"/category/scholarships","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Scholarships"}]}],["$","li","jobs",{"children":["$","$L10",null,{"href":"/category/jobs","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Jobs & Careers"}]}],["$","li","fellowships",{"children":["$","$L10",null,{"href":"/category/fellowships","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Fellowships"}]}],["$","li","internships",{"children":["$","$L10",null,{"href":"/category/internships","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Internships"}]}],["$","li","admissions",{"children":["$","$L10",null,{"href":"/category/admissions","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Admissions"}]}],["$","li","training-programs",{"children":["$","$L10",null,{"href":"/category/training-programs","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Training Programs"}]}]]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","h4",null,{"className":"text-xs font-bold text-white uppercase tracking-wider font-heading","children":"Navigation"}],["$","ul",null,{"className":"space-y-2 text-xs md:text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/browse","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Browse Opportunities"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"About Us"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/contact","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Contact Us"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/submit","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Submit an Opportunity"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/browse?saved=true","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Saved Bookmarks"}]}]]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","h4",null,{"className":"text-xs font-bold text-white uppercase tracking-wider font-heading","children":"Trust & Legal"}],["$","ul",null,{"className":"space-y-2 text-xs md:text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/disclaimer","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Official Disclaimer"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/privacy","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Privacy Policy"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/terms","className":"text-slate-400 hover:text-teal-400 transition-colors","children":"Terms of Service"}]}]]}],["$","div",null,{"className":"pt-2","children":["$","a",null,{"href":"mailto:contact@globalopportunityhub.com","className":"flex items-center gap-1.5 text-xs text-slate-400 hover:text-brand-gold","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail w-3.5 h-3.5 text-brand-gold","children":[["$","rect","18n3k1",{"width":"20","height":"16","x":"2","y":"4","rx":"2"}],["$","path","1ocrg3",{"d":"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"}],"$undefined"]}],["$","span",null,{"children":"contact@globalopportunityhub.com"}]]}]}]]}]]}],["$","div",null,{"className":"mt-12 pt-6 border-t border-slate-800 text-xs text-slate-400 leading-relaxed","children":[["$","div",null,{"className":"flex items-start gap-2 mb-4 bg-slate-800/60 p-3 rounded-xl border border-slate-700/60","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-alert w-4 h-4 text-brand-gold shrink-0 mt-0.5","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","1got3b",{"d":"M12 8v4"}],["$","path","1drbdi",{"d":"M12 16h.01"}],"$undefined"]}],["$","p",null,{"children":[["$","strong",null,{"children":"Disclaimer:"}]," ","Global Opportunity Hub"," is an informational directory sharing educational, scholarship, and career opportunities from official institutions worldwide. We are not an agent, recruiter, or official representative of any university, government, or employer. Always apply directly via official links."]}]]}],["$","div",null,{"className":"flex flex-col sm:flex-row items-center justify-between gap-3 text-slate-400","children":[["$","p",null,{"children":["© ",2026," ","Global Opportunity Hub",". All rights reserved."]}],["$","p",null,{"className":"flex items-center gap-1 text-[11px]","children":"Empowering global youth • Built with Next.js & Tailwind CSS"}]]}]]}]]}]}]]}]}]]}]],null],null],["$L11",null]]]]
+11:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Search & Browse All Opportunities | Global Opportunity Hub"}],["$","meta","3",{"name":"description","content":"Filter and explore scholarships, jobs, fellowships, internships, admissions, and training programs worldwide by country, degree level, funding, and deadline."}],["$","meta","4",{"name":"author","content":"Global Opportunity Hub"}],["$","meta","5",{"name":"keywords","content":"scholarships,fully funded scholarships,international jobs,fellowships,internships,university admissions,training programs,Swiss Government Scholarship,global opportunities,study abroad"}],["$","meta","6",{"name":"creator","content":"Global Opportunity Hub"}],["$","meta","7",{"name":"publisher","content":"Global Opportunity Hub"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"property":"og:title","content":"Global Opportunity Hub"}],["$","meta","11",{"property":"og:description","content":"Your trusted platform for discovering scholarships, jobs, fellowships, internships, admissions, training programs and career opportunities around the world."}],["$","meta","12",{"property":"og:url","content":"https://globalopportunityhub.vercel.app"}],["$","meta","13",{"property":"og:site_name","content":"Global Opportunity Hub"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://globalopportunityhub.vercel.app/og-image.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Global Opportunity Hub - Scholarships & Opportunities"}],["$","meta","19",{"property":"og:type","content":"website"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:title","content":"Global Opportunity Hub"}],["$","meta","22",{"name":"twitter:description","content":"Your trusted platform for discovering scholarships, jobs, fellowships, internships, admissions, training programs and career opportunities around the world."}],["$","meta","23",{"name":"twitter:image","content":"https://globalopportunityhub.vercel.app/og-image.png"}]]
+1:null

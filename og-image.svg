@@ -1,0 +1,58 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#0B3C5D" />
+      <stop offset="60%" stopColor="#0E7C86" />
+      <stop offset="100%" stopColor="#062235" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#FBD34D" />
+      <stop offset="50%" stopColor="#F2B632" />
+      <stop offset="100%" stopColor="#D99B1C" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)" />
+
+  <!-- Ambient blur circles -->
+  <circle cx="1050" cy="150" r="280" fill="#F2B632" fill-opacity="0.12" />
+  <circle cx="150" cy="500" r="240" fill="#0E7C86" fill-opacity="0.25" />
+
+  <!-- Central Globe Icon -->
+  <g transform="translate(100, 160) scale(1.6)">
+    <circle cx="50" cy="50" r="38" fill="#0B3C5D" stroke="#0E7C86" stroke-width="2" />
+    <ellipse cx="50" cy="50" rx="38" ry="16" stroke="rgba(255,255,255,0.25)" stroke-width="2" fill="none" />
+    <ellipse cx="50" cy="50" rx="20" ry="38" stroke="rgba(255,255,255,0.25)" stroke-width="2" fill="none" />
+    <line x1="12" y1="50" x2="88" y2="50" stroke="rgba(255,255,255,0.3)" stroke-width="2" />
+    <line x1="50" y1="12" x2="50" y2="88" stroke="rgba(255,255,255,0.3)" stroke-width="2" />
+    <circle cx="50" cy="50" r="4.5" fill="#FFFFFF" />
+    <path
+      d="M 14 74 C 22 92, 68 94, 88 64 C 98 48, 88 24, 70 16 C 54 8, 30 18, 22 34"
+      stroke="url(#goldGrad)"
+      stroke-width="6"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <circle cx="21" cy="35" r="4.5" fill="#FBD34D" />
+  </g>
+
+  <!-- Brand Typography -->
+  <text x="300" y="240" font-family="system-ui, -apple-system, sans-serif" font-size="56" font-weight="800" fill="#FFFFFF">
+    Global Opportunity <tspan fill="#F2B632">Hub</tspan>
+  </text>
+
+  <text x="300" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="500" fill="#99F6E4">
+    Official Scholarships &bull; UN Jobs &bull; Fellowships &bull; Global Internships
+  </text>
+
+  <text x="300" y="370" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#E2E8F0" opacity="0.9">
+    Your trusted platform for discovering verified opportunities around the world.
+  </text>
+
+  <!-- Facebook Community Badge -->
+  <rect x="300" y="420" width="340" height="54" rx="27" fill="#1877F2" fill-opacity="0.9" />
+  <text x="340" y="454" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">
+    Join 3,200+ Scholars on Facebook
+  </text>
+</svg>
